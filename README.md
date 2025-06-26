@@ -1,7 +1,7 @@
 * 👋 Hi there im Dekel
 * 3rd year Data Science and Engineering student at the Technion university.
-*⚙️ Passionate about system design,turning complex ideas and problems into simple solutions.
-* always learning 
+* Passionate about system design and turning complex problems into simple solutions.
+* always learning
 
 
 <!--
