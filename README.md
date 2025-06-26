@@ -1,4 +1,8 @@
-## Hi there 👋
+* 👋 Hi there im Dekel
+* 3rd year Data Science and Engineering student at the Technion university.
+*⚙️ Passionate about system design,turning complex ideas and problems into simple solutions.
+* always learning 
+
 
 <!--
 **Dekel-E/Dekel-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
